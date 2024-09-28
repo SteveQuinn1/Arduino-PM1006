@@ -14,4 +14,4 @@ The PM1006 uses infrared LEDs and an infrared detector to measure the particulat
 
 A copy of the serial data exchange is given below.
 
-!["PM1006](./docs/ReadResult.png "Read Result")
+!["PM1006](./docs/ReadResult.jpg "Read Result")
